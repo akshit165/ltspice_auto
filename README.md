@@ -22,7 +22,7 @@ The python script auto_sim.py uses the ltspice library and matplotlib to simulat
 
 Requirements to run this python script on your PC:-
 1. Install matplotlib and ltspice library by using pip in your terminal.
-   pip install matplotlib
+   pip install matplotlib &
    pip intall ltspice
    
 2. Change the file_savepath (Line 5) to the directory where the ltspice circuit file (opamp.asc) is saved.
