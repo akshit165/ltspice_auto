@@ -1,0 +1,3 @@
+Libraries Installation:-
+Matplotlib: pip install matplotlib
+LTspice Library: pip install ltspice
